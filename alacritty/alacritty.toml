@@ -1,0 +1,71 @@
+colors.draw_bold_text_with_bright_colors = true
+
+[colors.primary]
+background = "#1e2127"
+foreground = "#D8DEE9"
+
+[colors.normal]
+black = "#3B4252"
+red = "#BF616A"
+green = "#A3BE8C"
+yellow = "#EBCB8B"
+blue = "#81A1C1"
+magenta = "#B48EAD"
+cyan = "#88C0D0"
+white = "#abb2bf"
+
+[colors.bright]
+black = "#5c6370"
+red = "#e06c75"
+green = "#98c379"
+yellow = "#d19a66"
+blue = "#61afef"
+magenta = "#c678dd"
+cyan = "#56b6c2"
+white = "#ECEFF4"
+
+[font]
+size = 16
+
+  [font.offset]
+  x = 0
+  y = 0
+
+  [font.glyph_offset]
+  x = 0
+  y = 0
+
+[window]
+opacity = 0.85
+
+  [window.dimensions]
+  columns = 116
+  lines = 28
+
+  [window.padding]
+  x = 2
+  y = 2
+
+[scrolling]
+history = 10_000
+multiplier = 10
+
+[selection]
+semantic_escape_chars = ",│`|:\"' ()[]{}<>"
+save_to_clipboard = true
+
+[[keyboard.bindings]]
+key = "V"
+mods = "command"
+action = "Paste"
+
+[[keyboard.bindings]]
+key = "C"
+mods = "command"
+action = "Copy"
+
+[general]
+live_config_reload = true
+
+working_directory = 'C:\Users\yangg'
+
