@@ -5,4 +5,4 @@
 `/joplin`是Joplin的docker-compose文件
 `/alacritty`是我的Windows下使用Alacritty的配置，应该放在`C:\Users\yangg\AppData\Roaming\alacritty/`目录下
 `/Technitium`是我的私人递归DNS服务器配置备份
-`/Surge`是我的iOS版Surge5配置文件，all.conf为主配置，各个部分隔离，为i_*.conf。
+`/Surge`是我的iOS版Surge5配置文件，`all.conf`为主配置，各个部分隔离，为`i_*.conf`。
