@@ -14,3 +14,5 @@
 `/userChrome.css`是用于自订Firefox的界面，内容是去掉顶部标签栏，搭配垂直标签栏扩展使用。
 
 `/xiaohe.reg`是在Windows系统默认输入法中添加小鹤双拼的。
+
+假装更新测试
