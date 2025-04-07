@@ -1,6 +1,8 @@
 # myconfig
 存档我的配置文件
 
+`/Rule/`是我自用的部分Stash/Loon分流规则。
+
 `/chinadns/config`为chinadns-ng配置文件，上游是支持ECS的DNS over TLS
 
 `/joplin/`是Joplin的docker-compose文件
