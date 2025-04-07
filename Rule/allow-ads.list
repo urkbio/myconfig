@@ -1,0 +1,16 @@
+# 自定义放行广告域
+DOMAIN,c.gdt.qq.com
+DOMAIN,adsmind.gdtimg.com
+DOMAIN,app.bilibili.com
+DOMAIN,api-access.pangolin-sdk-toutiao-b.com
+DOMAIN,i.snssdk.com
+DOMAIN,bgg.baidu.com
+DOMAIN,ads5-normal-lq.zijieapi.com
+DOMAIN,mssdk.volces.com
+DOMAIN,ads3-normal-lf.zijieapi.com
+DOMAIN,als.baidu.com
+
+
+#Type:DOMAIN-SUFFIX,DOMAIN,DOMAIN-KEYWORD,USER-AGENT,URL-REGEX,IP-CIDR
+#Strategy:DIRECT,PROXY,REJECT
+#Options:no-resolve(only for IP-CIDR,IP-CIDR2,GEOIP,IP-ASN)
